@@ -27,7 +27,7 @@ This project analyzes Netflix content using Tableau to uncover trends in content
 ![Netflix Dashboard](NETFLIX_ANALYSIS_DASHBOARD.png)
 
 ## 📂 Files Included
-- `NETFLIX_DATA_ANALYSIS.twbx` – Tableau packaged workbook (if available)
+- `NETFLIX_DATA_ANALYSIS.twbx` – Tableau packaged workbook
 - `NETFLIX_ANALYSIS_DASHBOARD.png` – Dashboard preview image
 
 ## 🚀 How to Use
